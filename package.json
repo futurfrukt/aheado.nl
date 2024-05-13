@@ -1,0 +1,16 @@
+{
+  "name": "aheado.nl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "open ./index.html",
+    "predeploy": "",
+    "deploy": "gh-pages -d render"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}
